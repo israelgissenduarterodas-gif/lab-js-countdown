@@ -25,6 +25,8 @@ function startCountdown() {
       
     }
 
+    
+
     if(remainingTime <= 0){
       showToast("Lift off! 🚀")
       remainingTime = 10
